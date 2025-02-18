@@ -1,0 +1,154 @@
+#button1 {
+    position: absolute;
+    left: 550px;
+    top: 450px;
+}
+
+.ourImpact .ourImpact-card {
+    padding: 55px 50px;
+    min-height: 400px;
+    background-color: #FFF;
+    position: relative;
+}
+
+.ourImpact .ourImpact-card .img-box {
+    position: absolute;
+    right: 37px;
+    top: -50px;
+    -webkit-transition: .3s;
+    transition: .3s;
+}
+
+img {
+    border: none;
+    -webkit-tap-highlight-color: transparent;
+
+}
+
+img {
+    max-width: 100%;
+}
+
+.custom-button {
+    position: relative;
+    left: 200px;
+    top: 300px;
+    display: inline-block;
+    background-color: #4B2A7B;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 12px 24px;
+    text-decoration: none;
+    border: none;
+    clip-path: polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%);
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.custom-button:hover {
+    background-color: #3a215f;
+}
+
+.ourImpact .main-box h3 {
+    font-size: 75px;
+    color: #0C1D46;
+    font-family: "font-Reg";
+    line-height: 1;
+    margin: 0;
+    margin-bottom: 171px;
+}
+
+
+#MarkitingText {
+    position: absolute;
+    left: 450px;
+    top: 250px;
+
+}
+
+
+/* #MainImage{
+    color:blueviolet;
+    position: absolute;
+    left: 0px;
+    top:150px;
+} */
+
+
+
+#OurImpact {
+    position: absolute;
+    left: 0px;
+    top: 750px;
+}
+
+
+#button1 {
+    height: 50px;
+    width: 200px;
+    background-color: #53307E;
+}
+
+#Col2 {
+    position: absolute;
+    right: 100px;
+    top: 0px;
+
+}
+
+#SearchIcon {
+    width: 20px;
+    /* Adjust width */
+    height: auto;
+    /* Maintain aspect ratio */
+    position: absolute;
+    right: 350px;
+    top: 14px;
+}
+
+#HoverItems {
+    position: relative;
+    left: 510px;
+    top: 0px;
+}
+
+#HoverItems>* {
+    cursor: pointer;
+}
+
+/* #HoverItems>*:hover{
+    background-color: bisque;
+  }
+
+.joinBtn {
+    width: 10em;
+    height: 5ex;
+    background-color: gold;
+    border: 2px solid firebrick;
+    border-radius: 10px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+  }
+  
+  .joinBtn:hover {
+    background-color: bisque;
+  } */
+
+
+.navbar-nav .dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.navbar-nav .dropdown:hover .nav-link {
+    color: #53307E;
+    transition: 0;
+}
+
+
+
+a {
+    font-weight: bolder;
+    color: black;
+}
